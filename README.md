@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Raúl 👋
 
 - 🔭 I’m currently working on [Gocardless](https://gocardless.com)
 - 📫 How to reach me: [twitter](https://twitter.com/rnaveiras)
